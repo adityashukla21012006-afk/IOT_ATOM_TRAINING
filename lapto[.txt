@@ -1,0 +1,6 @@
+class laptop{
+String brand:
+String model;
+public void start(){
+	System.out.println("laptop started")
+}
